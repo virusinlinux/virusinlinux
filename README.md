@@ -1,8 +1,8 @@
 <h1 align="center"> नमस्ते (Namaste) 🙏🏻 , I'm Priyanshu Kumar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
 <br>
- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="480" height="360">
- <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" alt="Coder GIF" width="200" height="100" align="center">
+<img src="https://media.giphy.com/media/9LQHvkbIzTSLe/giphy.gif" alt="Coder GIF" width="1000" height="700" align="center">
+
 </br>
 
 <h3 align="center">I'm a Software Developer/Graphic Designer from India 🇮🇳❤</h3>
@@ -22,7 +22,11 @@
 -    LinkedIn: **[LinkedIn](https://www.linkedin.com/in/priyanshukumardesigner/)**
 -    Gmail: **reyanshstar2001@gmail.com**
 
-<img src="https://media.giphy.com/media/9LQHvkbIzTSLe/giphy.gif" alt="Coder GIF" width="800" height="500" align="center">
+<br>
+<
+ <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="480" height="360">
+ <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" alt="Coder GIF" width="200" height="100" align="center">
+</br>
 
  <h3 align="left">Support:</h3>
  
