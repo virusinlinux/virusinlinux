@@ -1,8 +1,10 @@
 <h1 align="center"> नमस्ते (Namaste) 🙏🏻 , I'm Priyanshu Kumar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
 <br>
- <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="1000" height="700">
+ <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="1000" height="700">
 </br>
+
+https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif
 
 <h3 align="center">I'm a Software Developer/Graphic Designer from India 🇮🇳❤</h3>
 <h3 align="center">Currently in my Final Year of B-Tech from BPIT,Delhi. </h3>
