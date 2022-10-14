@@ -2,7 +2,7 @@
 
 <br>
  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="480" height="360">
- <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" alt="Coder GIF" width="480" height="360">
+ <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" alt="Coder GIF" width="200" height="100" align="center">
 </br>
 
 
