@@ -2,9 +2,9 @@
 
 <br>
  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="480" height="360">
+ <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" alt="Coder GIF" width="480" height="360">
 </br>
 
-https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif
 
 <h3 align="center">I'm a Software Developer/Graphic Designer from India 🇮🇳❤</h3>
 <h3 align="center">Currently in my Final Year of B-Tech from BPIT,Delhi. </h3>
