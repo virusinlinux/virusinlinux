@@ -58,5 +58,6 @@
 ### Behance Profile : [LINK](https://www.behance.net/reyanshstar)
 
  <img src="https://media.giphy.com/media/3oFzm9ZDwguOVj4O7m/giphy.gif" alt="Coder GIF" width="80" height="150" align="right">  
- <img src="https://media.giphy.com/media/UrzZ4TmQK17yJpYPIL/giphy.gif" alt="Coder GIF" width="250" height="150" align="center">                                           
-Thank you so much for visiting <img src="https://media.giphy.com/media/l0Iy9GydcyvaN3aqk/giphy.gif" width="40px">
+ <img src="https://media.giphy.com/media/UrzZ4TmQK17yJpYPIL/giphy.gif" alt="Coder GIF" width="250" height="150" align="center">                                          <p color="#ff0000"> 
+ Thank you so much for <img src="https://media.giphy.com/media/AEMgXCqNwfxvbNWVCt/giphy.gif" width="20px">visiting.
+  </p>
