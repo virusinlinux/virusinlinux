@@ -1,7 +1,7 @@
 <h1 align="center"> नमस्ते (Namaste) 🙏🏻 , I'm Priyanshu Kumar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
 <br>
- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="800" height="400">
+ <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="480" height="360">
 </br>
 
 https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif
