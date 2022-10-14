@@ -5,7 +5,6 @@
  <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" alt="Coder GIF" width="200" height="100" align="center">
 </br>
 
-
 <h3 align="center">I'm a Software Developer/Graphic Designer from India 🇮🇳❤</h3>
 <h3 align="center">Currently in my Final Year of B-Tech from BPIT,Delhi. </h3>
 
@@ -22,6 +21,8 @@
 -    WhatsApp: **+91 8287249385** (Helping 24*7) **[CHAT]()** 
 -    LinkedIn: **[LinkedIn](https://www.linkedin.com/in/priyanshukumardesigner/)**
 -    Gmail: **reyanshstar2001@gmail.com**
+
+<img src="https://media.giphy.com/media/9LQHvkbIzTSLe/giphy.gif" alt="Coder GIF" width="200" height="100" align="center">
 
  <h3 align="left">Support:</h3>
  
