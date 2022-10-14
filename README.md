@@ -22,7 +22,7 @@
 -    LinkedIn: **[LinkedIn](https://www.linkedin.com/in/priyanshukumardesigner/)**
 -    Gmail: **reyanshstar2001@gmail.com**
 
-<img src="https://media.giphy.com/media/9LQHvkbIzTSLe/giphy.gif" alt="Coder GIF" width="200" height="100" align="center">
+<img src="https://media.giphy.com/media/9LQHvkbIzTSLe/giphy.gif" alt="Coder GIF" width="800" height="500" align="center">
 
  <h3 align="left">Support:</h3>
  
